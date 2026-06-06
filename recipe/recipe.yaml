@@ -1,5 +1,5 @@
 context:
-  version: "2.7.0"
+  version: "2.7.1"
 
 package:
   name: oapi-codegen
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/oapi-codegen/oapi-codegen/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: ceb1c0f9812b7d7c8ea9a5f05790ee80020e7b65c7872eb6bf0425c1ef2c9825
+  sha256: 6f7f46dee9b49d54ddfd0d9e9676bdca8701d40819e057e9a33fcf87ff64b136
   target_directory: src
 
 build:
