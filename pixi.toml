@@ -5,7 +5,7 @@
 
 [workspace]
 name = "oapi-codegen-feedstock"
-version = "2026.5.29"  # conda-smithy version used to generate this file
+version = "2026.6.14"  # conda-smithy version used to generate this file
 description = "Pixi configuration for conda-forge/oapi-codegen-feedstock"
 authors = ["@conda-forge/oapi-codegen"]
 channels = ["conda-forge"]
